@@ -1,0 +1,23 @@
+Start testing: Aug 20 13:48 CDT
+----------------------------------------------------------
+1/1 Testing: Hello world test
+1/1 Test: Hello world test
+Command: "/Users/shim/Documents/Programming/sideprojects/sol-sim/build/tests/unit_tests" "Hello world test"
+Directory: /Users/shim/Documents/Programming/sideprojects/sol-sim/build/tests
+"Hello world test" start time: Aug 20 13:48 CDT
+Output:
+----------------------------------------------------------
+Filters: "Hello world test"
+Randomness seeded to: 649823584
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Hello world test" end time: Aug 20 13:48 CDT
+"Hello world test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 20 13:48 CDT
